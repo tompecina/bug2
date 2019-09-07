@@ -6,7 +6,7 @@ How to reproduce the bug:
 2. Run it:
      ./run.sh
 
-3- View out.pdf.
+3. View out.pdf.
 
 4. The original file empty.pdf was converted to out.pdf by.
    appending one character of text in the center of page 1.
